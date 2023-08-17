@@ -1,2 +1,5 @@
-welcome to my blog
-# star-design-using-python
+👋 Hi, I’m Gopi Krishna
+👀 I’m interested in developing websites,creating a real world project and so on...
+🌱 I’m corrently pursuing btech in cse (Computer Science and engineering) from srm university
+💞️
+📫 just reach me at  regarding queries...
